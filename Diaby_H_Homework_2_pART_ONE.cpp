@@ -33,4 +33,24 @@ int main() {
     return 0;
 }
 
+/*
+Enter the month (1-12): 12
+Enter the day (1-31): 12
+It is now Fall!
+PS C:\Users\halim\OneDrive\Documents\GitHub\homework-2-if-else-statements-H4L1M4T0U> cd "c:\Users\halim\OneDrive\Documents\GitHub\homework-2-if-else-statements-H4L1M4T0U\" ; if ($?) { g++ Diaby_H_Homework_2_pART_ONE.cpp -o Diaby_H_Homework_2_pART_ONE } ; if ($?) { .\Diaby_H_Homework_2_pART_ONE }
+Enter the month (1-12): 1
+Enter the day (1-31): 2
+It is now Winter!
+PS C:\Users\halim\OneDrive\Documents\GitHub\homework-2-if-else-statements-H4L1M4T0U> cd "c:\Users\halim\OneDrive\Documents\GitHub\homework-2-if-else-statements-H4L1M4T0U\" ; if ($?) { g++ Diaby_H_Homework_2_pART_ONE.cpp -o Diaby_H_Homework_2_pART_ONE } ; if ($?) { .\Diaby_H_Homework_2_pART_ONE }
+Enter the month (1-12): 8
+Enter the day (1-31): 5
+It is now Summer!
+PS C:\Users\halim\OneDrive\Documents\GitHub\homework-2-if-else-statements-H4L1M4T0U> cd "c:\Users\halim\OneDrive\Documents\GitHub\homework-2-if-else-statements-H4L1M4T0U\" ; if ($?) { g++ Diaby_H_Homework_2_pART_ONE.cpp -o Diaby_H_Homework_2_pART_ONE } ; if ($?) { .\Diaby_H_Homework_2_pART_ONE }
+Enter the month (1-12): 4
+Enter the day (1-31): 12
+It is now Spring!*/
+
+
+
+
 
